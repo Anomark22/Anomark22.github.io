@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: gray;
+  font-family: "Fira Code", Arial, Helvetica, sans-serif;
+  padding-left: 30vw;
+  padding-right: 30vw;
+  padding-top: 5vw;
+}
+
+h1 {
+  font-weight: 700;
+  text-align: center;
+}
